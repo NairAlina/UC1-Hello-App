@@ -21,7 +21,7 @@
  * 5. System.out.println() – Standard output stream for printing
  */
 
-public class HelloApp {
+public class HelloApp_UC2 {
 
     public static void main(String[] args) {
 
